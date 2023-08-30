@@ -9,7 +9,7 @@
    y sumergirme en la lectura.
 
 🎓 He completado un Bootcamp de Data Scientist y Big Data.
-Actualmente, por finalizar un curso de especialización en IA.
+Actualmente,  estoy por finalizar un curso de especialización en IA.
 
 🌱 Siento pasión por el campo de la ciencia de datos e inteligencia artificial.
 
